@@ -1,0 +1,13 @@
+export const GLAV_ROUTE = '/store'
+export const MENU_ROUTE = '/store'
+export const ITEM_ROUTE = '/item'
+export const BASKET_ROUTE = '/basket'
+export const DELIVERY_ROUTE = '/delivery'
+export const ORDER_ROUTE = '/order'
+export const ACCOUNT_ROUTE = '/account'
+
+export const FQU_ROUTE = '/fqu'
+export const SUPPORT_ROUTE = '/support'
+export const PRESENT_ROUTE = '/present'
+export const CONTACT_ROUTE = '/contact'
+export const AUTO_ROUTE = '/auto'
